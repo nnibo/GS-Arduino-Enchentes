@@ -57,7 +57,7 @@ void loop() {
 
   moistureValue = analogRead(A0);
   // Transforma o valor do moisture em porcentagem
-  moisturePercentage = map(moistureValue, 0, 876, 0, 100)
+  moisturePercentage = map(moistureValue, 0, 876, 0, 100);
 
   Serial.print("Moisture Value: ");
   Serial.println(moisturePercentage);
