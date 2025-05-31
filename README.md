@@ -18,7 +18,8 @@ Nossa solução propõe um sistema automatizado e acessível, construído com Ar
 - **Buzzer** que é ativado em caso crítico.
 - **Display LCD I2C** para exibir mensagens de status.
 
-IMAGEM
+### Imagem do projeto
+![Imagem Projeto](imagens/GS-EdgeProjeto.png)
 
 ---
 
