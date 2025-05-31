@@ -36,5 +36,6 @@ Nossa solução propõe um sistema automatizado e acessível, construído com Ar
 [👉 Acesse o projeto no Tinkercad](https://www.tinkercad.com/things/40Utxf70id0-projeto-arduino-enchentes?sharecode=P4UBpSwNmxFsfPCsaFTYNrkDCJyizIMvRsjNJQ_MFus)
 
 ### 🎬Link para o video
-FALTA O VIDEO
+[🎥 Assista ao vídeo de demonstração](https://youtube.com/shorts/GJrME5QUY40)
+
 
