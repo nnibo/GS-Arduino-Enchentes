@@ -18,5 +18,22 @@ Nossa solução propõe um sistema automatizado e acessível, construído com Ar
 - **Buzzer** que é ativado em caso crítico.
 - **Display LCD I2C** para exibir mensagens de status.
 
+IMAGEM
+
 ---
+
+## 🧪 Como simular o projeto no Tinkercad
+1. Clicar em Iniciar Simulação
+2. Para ativar o led verde e verificar se o ambiente está seguro, clicar no sensor de umidade de solo, e colocar a umidade abaixo de 30%
+3. Para ativar o led amarelo e verificar chuva, clicar no sensor de umidade de solo e colocar umidade acima de 30%
+4. Para ativar o led vermelho, a buzina e verificar uma enchente, clicar no sensor ultrassonico de distancia e colocar a altura da água acima de 50cm
+
+---
+
+## 🔗Links para projeto e video
+### 🛠️Link para o projeto no Tinkercad
+[👉 Acesse o projeto no Tinkercad](https://www.tinkercad.com/things/40Utxf70id0-projeto-arduino-enchentes?sharecode=P4UBpSwNmxFsfPCsaFTYNrkDCJyizIMvRsjNJQ_MFus)
+
+### 🎬Link para o video
+FALTA O VIDEO
 
