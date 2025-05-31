@@ -38,4 +38,11 @@ Nossa solução propõe um sistema automatizado e acessível, construído com Ar
 ### 🎬Link para o video
 [🎥 Assista ao vídeo de demonstração](https://youtube.com/shorts/GJrME5QUY40)
 
+---
+
+## 🙋‍♂️Integrantes
+1. Nicolas Baradel
+2. Joao Vitor Lombardi
+3. Patrick Haddad
+
 
